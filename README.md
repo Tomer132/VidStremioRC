@@ -18,7 +18,7 @@ A production-ready Stremio addon that provides high-quality streams for **movies
 
 ```bash
 # 1. Clone or download the project
-cd stremio-vidsrc-addon
+cd VidStremioRC
 
 # 2. Install dependencies
 npm install
@@ -39,7 +39,7 @@ Then click **"Install Addon in Stremio"** on the landing page.
 ## Project Structure
 
 ```
-stremio-vidsrc-addon/
+VidStremioRC/
 ├── src/
 │   ├── index.js          # Express server entry point
 │   ├── manifest.js       # Addon identity & capabilities
